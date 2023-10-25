@@ -1,2 +1,0 @@
-# ProCoin
-ProCoin website
